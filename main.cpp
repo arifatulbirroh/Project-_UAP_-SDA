@@ -38,4 +38,3 @@ int main() {
     tampilData();
     return 0;
 }
-
